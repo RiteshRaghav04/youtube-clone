@@ -53,6 +53,10 @@ npm run build
 
 npm run preview
 
+## Screenshots
+
+![Home Page](./home.png)
+
 ## Future Improvements
 
 * Video playback page
