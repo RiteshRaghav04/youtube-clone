@@ -32,10 +32,6 @@ src/
 
 ## Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/youtube-clone.git
-
 Go to project folder:
 
 cd youtube-clone
